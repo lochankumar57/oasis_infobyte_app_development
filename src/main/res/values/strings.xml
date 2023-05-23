@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">calculator</string>
+    <string name="item_label">Items</string>
+    <string name="conversions">CONVERSIONS</string>
+    <string name="enter">ENTER</string>
+    <string name="result">RESULT :-</string>
+    <string name="calculate">CALCULATE</string>
+    <string name="input">INPUT   :-</string>
+    <string name="to">TO</string>
+    <string name="from">FROM</string>
+</resources>
